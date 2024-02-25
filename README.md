@@ -1,8 +1,8 @@
 <div align="center">
-# Estudiante del Instituto Técnico Ricaldone 
-## Segundo año de bachillerato en Desarrollo de Software
-### Promo 2025
-#### "StockGenius"
+<h1>Estudiante del Instituto Técnico Ricaldone</h1>
+<h2>Segundo año de bachillerato en Desarrollo de Software</h2>
+<h3>Promo 2025</h3>
+<h4>"StockGenius"</h4>
 </div>
 
 <div align="center">
