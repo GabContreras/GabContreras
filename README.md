@@ -33,6 +33,61 @@
       </td>
     </tr>
   </table>
+    
+   <table>
+    <tr>
+      <td align="center">
+        <a href="https://open.spotify.com/intl-es/album/4uNwpYU5QyX2u0kkkEFLR4?si=7drgafEmTEias6d-KXXI2g">
+          <img src="https://github.com/user-attachments/assets/15805e8a-5599-44c7-90e8-bd0dc14d4cc3" width="200">
+        </a><br>
+        Gustavo Cerati - Amor Amarillo
+      </td>
+      <td align="center">
+        <a href="https://open.spotify.com/intl-es/album/2dL9Q5AtIv4Rw1L6lKcIUc?si=i1oRy7dTQxGevwrh4Y_W-w">
+          <img src="https://github.com/user-attachments/assets/3c41adb1-aa09-4ade-aed6-79e878c60c9c" width="200">
+        </a><br>
+        Virus - Locura
+      </td>
+      <td align="center">
+        <a href="https://open.spotify.com/intl-es/album/1GYJUlbVr5FuNU7awwMGzu?si=HwYWnfgDQ-6xh9ysqgvZRg">
+          <img src="https://github.com/user-attachments/assets/e8bdcbae-0b69-4e2a-a1e2-b6fe1f8fb336" width="200">
+        </a><br>
+        System of a down - Toxicity
+      </td>
+    </tr>
+  </table>
+
+<table>
+    <tr>
+      <td align="center">
+        <a href="https://open.spotify.com/intl-es/album/4uNwpYU5QyX2u0kkkEFLR4?si=7drgafEmTEias6d-KXXI2g">
+          <img src="https://github.com/user-attachments/assets/c5bc32fd-50e5-4d3b-af57-bd55fc794548" width="200">
+        </a><br>
+        MCR- Three cheers for sweet revenge
+      </td>
+      <td align="center">
+        <a href="https://open.spotify.com/intl-es/album/2dL9Q5AtIv4Rw1L6lKcIUc?si=i1oRy7dTQxGevwrh4Y_W-w">
+          <img src="https://github.com/user-attachments/assets/3bbf2ac8-7847-487d-b20f-9a6a6951b642" width="200">
+        </a><br>
+        Disturbed - The sickness
+      </td>
+      <td align="center">
+        <a href="https://open.spotify.com/intl-es/album/1GYJUlbVr5FuNU7awwMGzu?si=HwYWnfgDQ-6xh9ysqgvZRg">
+          <img src="https://github.com/user-attachments/assets/61ade314-f189-4007-8945-5065d9c77190" width="200">
+        </a><br>
+        Korn- Korn
+      </td>
+    </tr>
+  </table>
+  
+    # 📊 Estadisticas Github:
+![](https://github-readme-stats.vercel.app/api?username=GabContreras&theme=merko&hide_border=false&include_all_commits=true&count_private=false)<br/>
+![](https://github-readme-streak-stats.herokuapp.com/?user=GabContreras&theme=merko&hide_border=false)<br/>
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=GabContreras&theme=merko&hide_border=false&include_all_commits=true&count_private=false&layout=compact)
+
+## 🏆 Trofeos Github
+![](https://github-profile-trophy.vercel.app/?username=GabContreras&theme=juicyfresh&no-frame=false&no-bg=true&margin-w=4)
+
 </div>
 
 
