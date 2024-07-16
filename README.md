@@ -37,19 +37,19 @@
    <table>
     <tr>
       <td align="center">
-        <a href="https://open.spotify.com/intl-es/album/4uNwpYU5QyX2u0kkkEFLR4?si=7drgafEmTEias6d-KXXI2g">
+        <a href="https://open.spotify.com/album/75onhE4ne52iMHlVcpHUKR?si=CMHUCmWkRAGQsrbme3ooNQ">
           <img src="https://github.com/user-attachments/assets/15805e8a-5599-44c7-90e8-bd0dc14d4cc3" width="200">
         </a><br>
         Gustavo Cerati - Amor Amarillo
       </td>
       <td align="center">
-        <a href="https://open.spotify.com/intl-es/album/2dL9Q5AtIv4Rw1L6lKcIUc?si=i1oRy7dTQxGevwrh4Y_W-w">
+        <a href="https://open.spotify.com/album/5K3EGqntkI4To4TKtmIj2r?si=3-Ak_vihTV2IC1gSFyHRwg">
           <img src="https://github.com/user-attachments/assets/3c41adb1-aa09-4ade-aed6-79e878c60c9c" width="200">
         </a><br>
         Virus - Locura
       </td>
       <td align="center">
-        <a href="https://open.spotify.com/intl-es/album/1GYJUlbVr5FuNU7awwMGzu?si=HwYWnfgDQ-6xh9ysqgvZRg">
+        <a href="https://open.spotify.com/album/6jWde94ln40epKIQCd8XUh?si=ciMQtFCXT1aOZ1YPU_4UfQ">
           <img src="https://github.com/user-attachments/assets/e8bdcbae-0b69-4e2a-a1e2-b6fe1f8fb336" width="200">
         </a><br>
         System of a down - Toxicity
@@ -60,19 +60,19 @@
 <table>
     <tr>
       <td align="center">
-        <a href="https://open.spotify.com/intl-es/album/4uNwpYU5QyX2u0kkkEFLR4?si=7drgafEmTEias6d-KXXI2g">
+        <a href="https://open.spotify.com/album/3DuiGV3J09SUhvp8gqNx8h?si=Io8Pd7kmQdWzTvxXBeyV9g">
           <img src="https://github.com/user-attachments/assets/c5bc32fd-50e5-4d3b-af57-bd55fc794548" width="200">
         </a><br>
         MCR- Three cheers for sweet revenge
       </td>
       <td align="center">
-        <a href="https://open.spotify.com/intl-es/album/2dL9Q5AtIv4Rw1L6lKcIUc?si=i1oRy7dTQxGevwrh4Y_W-w">
+        <a href="https://open.spotify.com/album/6IvosVciDOQ9NAPaKwhtLY?si=qIG-Q-FbRzOdJEXGQWjXDQ">
           <img src="https://github.com/user-attachments/assets/3bbf2ac8-7847-487d-b20f-9a6a6951b642" width="200">
         </a><br>
         Disturbed - The sickness
       </td>
       <td align="center">
-        <a href="https://open.spotify.com/intl-es/album/1GYJUlbVr5FuNU7awwMGzu?si=HwYWnfgDQ-6xh9ysqgvZRg">
+        <a href="https://open.spotify.com/album/7D3XFJlfZIkmGWqZXm2X8z?si=9TRGn5ShSHGMIH4uFN-iXw">
           <img src="https://github.com/user-attachments/assets/61ade314-f189-4007-8945-5065d9c77190" width="200">
         </a><br>
         Korn- Korn
