@@ -1,6 +1,6 @@
 <div align="center">
 <h1>Estudiante del Instituto Técnico Ricaldone</h1>
-<h2>Segundo año de bachillerato en Desarrollo de Software</h2>
+<h2>Tercer año de bachillerato en Desarrollo de Software</h2>
 <h3>Promo 2025 🗣️🗣️🗣️🗣️</h3>
 <h4>"StockGenius"</h4>
 </div>
