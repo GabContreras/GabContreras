@@ -1,5 +1,5 @@
 <div align="center">
-<h2>Tercer año de bachillerato en Desarrollo de Software</h2>
+<h2>Estudiante de ingeniería en ciencias de la computación</h2>
 </div>
 
 <div align="center">
