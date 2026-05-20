@@ -8,8 +8,6 @@
 
 
   
-    # 📊 Estadisticas Github:
-![](https://github-readme-streak-stats.herokuapp.com/?user=GabContreras&theme=merko&hide_border=false)<br/>
 
 </div>
 
